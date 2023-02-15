@@ -46,7 +46,8 @@
                         Content="Start"
                         FontSize="30"
                         Foreground="#1b1548"
-                        Click="StartButton_Click"/>
+                        Click="StartButton_Click"
+                        Cursor="Hand"/>
                 <Button x:Name="HowToButton"
                         Grid.Column="1" 
                         Background="Wheat"
@@ -55,7 +56,8 @@
                         Content="How to play"
                         FontSize="30"
                         Foreground="#1b1548"
-                        Click="HowToButton_Click"/>
+                        Click="HowToButton_Click"
+                        Cursor="Hand"/>
             </Grid>
             
         </Grid>
