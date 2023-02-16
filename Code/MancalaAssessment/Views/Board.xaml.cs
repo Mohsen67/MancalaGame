@@ -23,5 +23,10 @@ namespace MancalaAssessment.Views
         {
             InitializeComponent();
         }
+
+        private void BtmPit6_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
